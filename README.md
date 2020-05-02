@@ -7,8 +7,8 @@ Create a small app that opens project and draws it`s rooms in 2D
 2. Create either UICollectionView or UITableView and list downloaded projects 
 3. Allow to open and close any project
 4. Opened project should contain:
-  i. Room flooring polygon (bonus: fill it with properly scaled texture) 
-  ii. Room walls
+ * i. Room flooring polygon (bonus: fill it with properly scaled texture) 
+ * ii. Room walls
 
 Projects
 base url: https://planner5d.com/api/project/{hash} hashes:
