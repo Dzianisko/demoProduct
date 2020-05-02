@@ -1,5 +1,7 @@
 # Demo Product
 
+[Demo Video](demo.mov)
+
 Create a small app that opens project and draws it`s rooms in 2D
 1. Load and parse projects (use background queue)
 2. Create either UICollectionView or UITableView and list downloaded projects 3. Allow to open and close any project
